@@ -6,6 +6,8 @@ dword_mask = 0xffffffffffffffff
 density_bits      = 32
 fkf_density_mask  = 0xFFFF #16K
 
+#test
+
 #terain condition flags
 fkf_plain             = 0x00000004
 fkf_steppe            = 0x00000008
